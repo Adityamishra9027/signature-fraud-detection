@@ -1,22 +1,18 @@
-# Signature Fraud Detection using Machine Learning 🖋️🔍
+# 🖋️ Signature Fraud Detection using Machine Learning
 
-This project focuses on building a machine learning system to detect forged signatures using image processing and classification algorithms.
+A machine learning project to detect forged signatures using image processing techniques and classification algorithms.
 
 ## 🚀 Features
 
-- Image preprocessing (resizing, grayscale, thresholding)
-- Feature extraction using OpenCV
-- Model training using SVM / CNN (mention your model)
-- Real-time signature prediction and verification
-- Optional: Streamlit-based interactive UI
+- Signature image preprocessing (grayscale, resizing, thresholding)
+- Genuine vs Forged classification using ML models (SVM / CNN)
+- Real-time prediction
+- Ready for Streamlit or Web Integration
 
-## 🧠 Tech Stack
+## 🧠 Technologies Used
 
 - Python
 - OpenCV
 - Scikit-learn / TensorFlow / Keras
 - NumPy, Pandas
-- Streamlit (if applicable)
-
-## 📁 Project Structure
-
+- Streamlit (optional UI)
